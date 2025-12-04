@@ -148,7 +148,6 @@ backdrop_update:
         sub 8
         nextreg LAYER3_SCROLL_Y,a
 
-        my_break
     ; point to the where map will be store
         ld a,HI(bg_map)
         nextreg LAYER3_MAP_HI,a
