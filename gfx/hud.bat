@@ -1,0 +1,1 @@
+gfx2next -tile-size=8x8 -tile-pal=1 -map-16bit -colors-4bit -pal-rgb332 hud.png

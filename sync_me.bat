@@ -1,0 +1,1 @@
+copy speed*.nex c:\zx\nextsync
